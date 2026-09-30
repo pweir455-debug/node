@@ -98,10 +98,6 @@ curl -X POST \
   http://localhost:8545
 ```
 
-## Snapshots
-
-Snapshots are available to help you sync your node more quickly. See [docs.base.org](https://docs.base.org/chain/run-a-base-node#snapshots) for links and more details on how to restore from a snapshot.
-
 ## Supported Networks
 
 | Network | Status |
