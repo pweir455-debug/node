@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  NAMESPACE: ghcr.io/base
+  NAMESPACE: ghcr.io/pweir455-debug
   RETH_IMAGE_NAME: node-reth
 
 permissions:
